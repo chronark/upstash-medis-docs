@@ -14,7 +14,7 @@ to create your database.
 
 ## Connect to the Database
 
-Once you have created a database, you can connect to it using the `Host`, `Port` and `Password`. You can find them in the database details page.
+Once you have created a database, you can connect to it using the `Endpoint`, `Port` and `Password`. You can find them in the database details page.
 
 ![Database Connection Secrets](./secrets.png)
 
